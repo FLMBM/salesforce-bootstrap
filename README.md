@@ -28,5 +28,8 @@ This Bootstrap is made for obstinate people, who identify dissatisfaction in the
 - **Willpower** and **Patience**
 - [Google Chrome](https://www.google.pt/intl/en_us/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com)
-- [Slack](https://rili-learning.slack.com)
-- [Jira](https://rili-learning.atlassian.net)
+- Tools
+  - [Slack](https://rili-learning.slack.com)
+  - [Jira](https://rili-learning.atlassian.net)
+  - [Github](https://github.com/rili-learning/salesforce-bootstrap)
+  - [Jenkins]()
