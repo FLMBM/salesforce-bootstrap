@@ -1,22 +1,25 @@
 ### Salesforce Bootstrap by RiLi
 
-esse Bootstrap é feito para pessoas teimosas, que identificam a insatiscacao em sua profissao atual, que gostam de aprender constantemente, que desejam uma area de trabalho que nao possui crise de mercado, que tem responsabilidade, forca, coragem, que sabem que podem ser melhor, arrojado e tambem precisam e querem ter retorno e reconhecimento financeiro em outro nível para na maior parte das vezes mudar sua historia e de sua família.
+This Bootstrap is made for obstinate people, who identify dissatisfaction in their current profession, who like to constantly learn, who want a work area that does not have a market crisis, who have responsibility, strength, courage, who know they can be better , bold and also need and want to have return and financial recognition on another level to change their history and that of their family most of the time.
 
-- isso nao é um CURSO! é um **Bootstrap**
-  - Ponto de vista diferente no Mercado
-  - conjunto de conceitos/tecnicas/tecnologias
-  - o dia-a-dia no trabalho
-  - 100% hands on
-- padrao **INTERNACIONAL** de trabalho
-- Investimento exato para a nova Carreira
-  - sem supresas
-  - sem novos incansáveis modulos
-- Uma visao concreta de onde para onde, como e por onde comecar
-- Projeto concluido, seu atestado de conhecimento
-- Ter seguranca para contribuir/trabalhar com a equipe
-- Saber **COMO** entender/desenrolar as tarefas
-- seja **contratado** por uma empresa ou consultoria
-- Canais para duvidas
-- Contabilidade, abrindo sua empresa
+### Differentials
+
+- this is not a COURSE! is a **Bootstrap**
+  - different point of view on the market
+  - set of concepts/techniques/technologies
+  - everyday at work
+  - 70% hands on
+- **INTERNATIONAL** work standard
+- exact investment for the new **Career**
+  - no surprises
+  - no new tireless modules
+- a concrete vision of where to where, how and where to start
+- **Project** completed, your knowledge **Certificate**
+- be sure to contribute/work with the **Team**
+- Know **HOW** understand/unroll tasks
+- be **Hired** by a company or consultancy
+- how to focus and without **Productive** at work
+- channels for questions and support
+- accounting, opening your **Company**
 - seu Salário, saiba como estar **atualizado** com o Mercado
-- como ser um Profissional de Sucesso
+- how to be a **Successful** professional
