@@ -1,4 +1,4 @@
-### Salesforce Bootstrap by RiLi
+## Salesforce Bootstrap by RiLi
 
 This Bootstrap is made for obstinate people, who identify dissatisfaction in their current profession, who like to constantly learn, who want a work area that does not have a market crisis, who have responsibility, strength, courage, who know they can be better , bold and also need and want to have return and financial recognition on another level to change their history and that of their family most of the time.
 
@@ -21,5 +21,11 @@ This Bootstrap is made for obstinate people, who identify dissatisfaction in the
 - how to focus and without **Productive** at work
 - channels for questions and support
 - accounting, opening your **Company**
-- seu Salário, saiba como estar **atualizado** com o Mercado
 - how to be a **Successful** professional
+
+### Everything you need
+
+- **Willpower** and **Patience**
+- [Google Chrome](https://www.google.pt/intl/en_us/chrome/)
+- [Visual Studio Code](https://code.visualstudio.com)
+- []
