@@ -33,4 +33,4 @@ This Bootstrap is made for obstinate people, who identify dissatisfaction in the
   - [Slack](https://rili-learning.slack.com) - communication with the team
   - [Jira](https://rili-learning.atlassian.net) - project management
   - [Github](https://github.com/rili-learning/salesforce-bootstrap) - your code on the cloud
-  - [Jenkins]() - continuous integration/continuous delivery
+  - [Jenkins](https://devops.rili.be) - continuous integration/continuous delivery
