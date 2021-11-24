@@ -13,7 +13,7 @@ This Bootstrap is made for obstinate people, who identify dissatisfaction in the
 - exact investment for the new **Career**
   - no surprises
   - no new tireless modules
-- a concrete vision of where to where, how and where to start
+- a **concrete** experience of where to where, how and where to start
 - **Project** completed, your knowledge **Certificate**
 - be sure to contribute/work with the **Team**
 - Know **How** understand/unroll tasks
