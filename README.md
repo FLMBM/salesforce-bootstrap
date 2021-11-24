@@ -4,7 +4,7 @@ This Bootstrap is made for obstinate people, who identify dissatisfaction in the
 
 ### Differentials
 
-- this is not a **COURSE**! is a **Bootstrap**
+- this is not a **Course** is a **Bootstrap**!
   - different point of view on the market
   - set of concepts/techniques/technologies
   - everyday at work
