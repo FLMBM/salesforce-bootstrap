@@ -28,6 +28,7 @@ This Bootstrap is made for obstinate people, who identify dissatisfaction in the
 - **Willpower** and **Patience**
 - [Google Chrome](https://www.google.pt/intl/en_us/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com)
+- [Git](https://git-scm.com) - version control system 
 - Tools
   - [Slack](https://rili-learning.slack.com) - communication with the team
   - [Jira](https://rili-learning.atlassian.net) - project management
