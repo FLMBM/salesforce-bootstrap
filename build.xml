@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="Rili - DevOps" default="build" basedir=".">
+<project name="Rili - DevOps" default="build" basedir="." xmlns:sf="antlib:com.salesforce">
     <property file="build.properties"/>
     <property environment="env"/>
     <taskdef resource="net/sf/antcontrib/antlib.xml">
