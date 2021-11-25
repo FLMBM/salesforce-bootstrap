@@ -62,8 +62,6 @@
                 </if>
             </sequential>
         </for>
-        <sf:deploy username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" testlevel="NoTestRun" logtype="Detail" deployRoot="force-app">
-        </sf:deploy>
     </target>
 
     <!-- <target name="deployCode">
