@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="Rili - DevOps" default="build" basedir="." xmlns:sf="antlib:com.salesforce">
-    <property file="build.properties"/>
+<project name="Rili - DevOps" default="build" basedir=".">
+
     <property environment="env"/>
-    <taskdef resource="net/sf/antcontrib/antlib.xml">
+
+    <!-- <taskdef resource="net/sf/antcontrib/antlib.xml">
         <classpath>
             <pathelement location="lib/ant-contrib-1.0b3.jar"/>
         </classpath>
-    </taskdef>
+    </taskdef> -->
+    
     <macrodef name="gitDiff">
         <sequential>
             <exec executable="git" outputproperty="git.diff">
@@ -63,9 +65,4 @@
             </sequential>
         </for>
     </target>
-
-    <!-- <target name="deployCode">
-        <sf:deploy username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}" testlevel="NoTestRun" logtype="Detail" deployRoot="force-app">
-        </sf:deploy>
-    </target>     -->
 </project>
