@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <project name="Rili - DevOps" default="build" basedir=".">
+    <property file="build.properties"/>
     <property environment="env"/>
     <taskdef resource="net/sf/antcontrib/antlib.xml">
         <classpath>
