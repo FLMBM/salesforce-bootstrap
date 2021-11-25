@@ -1,12 +1,12 @@
 <project name="Rili - DevOps" default="build" basedir=".">
 
-    <property environment="env"/>
+    <!-- <property environment="env"/> -->
 
-    <taskdef resource="net/sf/antcontrib/antlib.xml">
+    <!-- <taskdef resource="net/sf/antcontrib/antlib.xml">
         <classpath>
             <pathelement location="lib/ant-contrib-1.0b3.jar"/>
         </classpath>
-    </taskdef>
+    </taskdef> -->
 
     <macrodef name="gitDiff">
         <sequential>
@@ -25,12 +25,14 @@
             <echo>${git.diff}</echo>
         </sequential>
     </macrodef>
+
     <target name="diffBuilderWithGitCommit">
         <delete dir="deploy-sf/${env.BUILD_NUMBER}"/>
         <mkdir dir="deploy-sf/${env.BUILD_NUMBER}"/>
         <echo>Current GIT Commit : ${env.GIT_COMMIT}</echo>
         <echo>Previous Successful GIT Commit : ${env.GIT_PREVIOUS_SUCCESSFUL_COMMIT}</echo>
         <gitDiff/>
+
         <for list="${git.diff}" param="currentDiff" delimiter="${line.separator}">
             <sequential>
                 <echo>File: @{currentDiff}</echo>
