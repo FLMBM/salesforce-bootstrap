@@ -4,12 +4,12 @@
 
     <property environment="env"/>
 
-    <!-- <taskdef resource="net/sf/antcontrib/antlib.xml">
+    <taskdef resource="net/sf/antcontrib/antlib.xml">
         <classpath>
             <pathelement location="lib/ant-contrib-1.0b3.jar"/>
         </classpath>
-    </taskdef> -->
-    
+    </taskdef>
+
     <macrodef name="gitDiff">
         <sequential>
             <exec executable="git" outputproperty="git.diff">
