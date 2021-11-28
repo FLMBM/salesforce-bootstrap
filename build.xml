@@ -1,4 +1,4 @@
-<project name="Rili - DevOps" default="build" basedir=".">
+<project name="RiLi - DevOps" default="build" basedir=".">
 
     <property environment="env"/>
 
@@ -45,7 +45,7 @@
                     </and>
                     <then>
                         <propertyregex property="currentDiffWithoutSRC" input="@{currentDiff}" regexp="force-app\/([a-zA-Z$]*\/[a-zA-Z0-9\/\.\_-]*)" select="\1" casesensitive="true" override="true" defaultValue=""/>
-                        <copy todir="deploy-sf/${env.BUILD_NUMBER}" verbose="false">
+                        <copy todir="deploy-sf/${env.BUILD_NUMBER}" quiet="true">
                             <fileset dir="force-app">
                                 <include name="${currentDiffWithoutSRC}" />
                             </fileset>
@@ -53,7 +53,7 @@
                         <if>
                             <available file="@{currentDiff}-meta.xml"/>
                             <then>
-                                <copy todir="deploy-sf/${env.BUILD_NUMBER}" verbose="false">
+                                <copy todir="deploy-sf/${env.BUILD_NUMBER}" quiet="true">
                                     <fileset dir="force-app">
                                         <include name="${currentDiffWithoutSRC}-meta.xml" />
                                     </fileset>
