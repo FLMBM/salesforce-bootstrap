@@ -1,4 +1,4 @@
-public with sharing class hi001 {
+public without sharing class hi001 {
 
 
     @AuraEnabled

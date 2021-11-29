@@ -5,6 +5,7 @@ import getAccount from "@salesforce/apex/hi001.getAccount";
 
 const columns = [
     { label: 'Name', fieldName: 'Name' },
+    { label: 'BillingStreet', fieldName: 'BillingStreet' },
     { label: 'Type', fieldName: 'Type'}
 ];
 
