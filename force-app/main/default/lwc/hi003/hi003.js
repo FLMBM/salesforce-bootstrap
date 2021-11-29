@@ -1,6 +1,6 @@
 import { LightningElement, track } from "lwc";
 
-import getAccount from "@salesforce/apex/c/hi001.getAccount";
+import getAccount from "@salesforce/apex/hi001.getAccount";
 
 
 const columns = [
