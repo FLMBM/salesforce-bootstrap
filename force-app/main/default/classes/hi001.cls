@@ -1,5 +1,4 @@
-public without sharing class hi001 {
-
+public with sharing class hi001 {
 
     @AuraEnabled
     public static List<Account> getAccount(){
